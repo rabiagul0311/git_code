@@ -1,3 +1,6 @@
 rebase
 clone
 push
+pull
+merge
+
